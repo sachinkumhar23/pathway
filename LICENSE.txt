@@ -14,14 +14,7 @@ Licensed Work:
     The Licensed Work is © 2024 NavAlgo SAS
     
 Additional Use Grant:
-    The Licensor grants you (the licensee) additional rights to the Licensed
-    Work, whereby you are entitled to run the Licensed Work in production
-    use, at no cost, subject to all of the following conditions: 
-    (a) in a single installation of the Licensed Work you may run the Licen
-    - you may not move, change, disable, or circumvent any license key
-    or resource limiting functionality that may be present in the software,
-    and you may not remove or obscure any functionality in the software that
-    is protected by the license key or circumvent resource limits,
+     resource limits,
     - you may not alter, remove, or obscure any licensing, copyright, or other
     notices of the licensor in the software; 
     (c) the production use of modified Licensed Work is permitted only where
